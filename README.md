@@ -58,31 +58,46 @@ This Project is a social media application built using the MERN stack (MongoDB, 
     npm install
 ```
 
-## Folder Structure Details
-/client
-/components: Contains reusable React components.
-/pages: Contains React components for different pages.
-/services: Contains services for API calls.
-/styles: Contains CSS and styling files.
-/utils: Contains utility functions and helpers.
-/server
-/config: Contains configuration files.
-/controllers: Contains functions that handle requests and responses.
-/models: Contains Mongoose models.
-/routes: Contains route definitions.
-/utils: Contains utility functions and helpers.
-/docs
-Contains project documentation.
-/scripts
-Contains setup and automation scripts.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+# Aries Reorganized
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Table of Contents
+- [Overview](#overview)
+- [Folder Structure](#folder-structure)
+  - [Client](#client)
+  - [Server](#server)
+  - [Docs](#docs)
+  - [Scripts](#scripts)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-Acknowledgements
-Thanks to the developers and contributors of the libraries and tools used in this project.
+## Overview
+Aries Reorganized is a project that is organized into a client and server structure. The client side is built using React and contains reusable components, pages, services, styles, and utilities. The server side is built with Node.js and Express, containing configuration files, controllers, models, routes, and utilities. The project also includes documentation and scripts for setup and automation.
+
+## Folder Structure
+```plaintext
+Aries Reorganized/
+│
+├── client/
+│   ├── components/        # Contains reusable React components
+│   ├── pages/             # Contains React components for different pages
+│   ├── services/          # Contains services for API calls
+│   ├── styles/            # Contains CSS and styling files
+│   └── utils/             # Contains utility functions and helpers
+│
+├── server/
+│   ├── config/            # Contains configuration files
+│   ├── controllers/       # Contains functions that handle requests and responses
+│   ├── models/            # Contains Mongoose models
+│   ├── routes/            # Contains route definitions
+│   └── utils/             # Contains utility functions and helpers
+│
+├── docs/                  # Contains project documentation
+│
+├── scripts/               # Contains setup and automation scripts
+│
+└── README.md              # Project overview and setup instructions
+```
 
 
 
