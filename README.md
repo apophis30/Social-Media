@@ -5,22 +5,23 @@ This Project is a social media application built using the MERN stack (MongoDB, 
 ## Project Structure
 /Aries-Project
 ├── /client
-│ ├── /components
-│ ├── /pages
-│ ├── /services
-│ ├── /styles
-│ └── /utils
+│   ├── /components
+│   ├── /pages
+│   ├── /services
+│   ├── /styles
+│   └── /utils
 ├── /docs
 ├── /scripts
 ├── /server
-│ ├── /config
-│ ├── /controllers
-│ ├── /models
-│ ├── /routes
-│ └── /utils
+│   ├── /config
+│   ├── /controllers
+│   ├── /models
+│   ├── /routes
+│   └── /utils
 ├── .gitignore
 ├── package.json
 └── README.md
+
 
 ## Features
 
