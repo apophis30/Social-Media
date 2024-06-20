@@ -42,18 +42,18 @@ This Project is a social media application built using the MERN stack (MongoDB, 
 ## Installation
 
 1. Clone the repository:
-   ```sh
+```sh
    git clone https://github.com/apophis30/Social-Media.git
-   ```
+```
 2.Install dependencies:
 
-  For the server:
-  ```sh
+For the server:
+```sh
     cd Aries-Project/server
     npm install
-   ```
-  For the client:
-  ```sh
+```
+For the client:
+```sh
     cd ../client
     npm install
 ```
@@ -64,17 +64,17 @@ JWT_SECRET=your_jwt_secret
 ```
 ## Running the Application
 1. Start the server:
-   ```sh
+```sh
    cd server
    npm start
-    ```
+```
 2.Start the Client
-  ```sh
+```sh
   cd ../client
   npm start
-  ```
+```
 
-# Folder Structure Details
+## Folder Structure Details
 
 ## Table of Contents
 - [Overview](#overview)
