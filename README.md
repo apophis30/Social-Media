@@ -57,8 +57,24 @@ This Project is a social media application built using the MERN stack (MongoDB, 
     cd ../client
     npm install
 ```
+3.Create a '.env' file in the server directory with the following content:
+```sh
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+```
+## Running the Application
+1. Start the server:
+   ```sh
+   cd server
+   npm start
+    ```
+2.Start the Client
+  ```sh
+  cd ../client
+  npm start
+  ```
 
-# Aries Reorganized
+# Folder Structure Details
 
 ## Table of Contents
 - [Overview](#overview)
