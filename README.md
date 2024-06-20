@@ -114,6 +114,13 @@ Aries Reorganized/
 │
 └── README.md              # Project overview and setup instructions
 ```
+## Contributing
+Feel free to contribute by submitting issues or pull requests.
 
+## License
+No License yet!
+
+## Acknowledgements
+Acknowledgements or credits, if any.
 
 
